@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4764afa3-06f4-4bde-b105-a707e5ecf0e4)# Customer Price Index Analysis
+# Customer Price Index Analysis
 
 # Libraries Used
 𝐩𝐚𝐧𝐝𝐚𝐬:Data Analysis
