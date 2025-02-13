@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8eaf47bd-e795-4751-91b2-a4748e269153)![image](https://github.com/user-attachments/assets/e40846fe-1899-41d5-b76d-306e1d8036b5)# Customer Price Index Analysis
+![image](https://github.com/user-attachments/assets/4764afa3-06f4-4bde-b105-a707e5ecf0e4)# Customer Price Index Analysis
 
 # Libraries Used
 𝐩𝐚𝐧𝐝𝐚𝐬:Data Analysis
@@ -29,6 +29,13 @@
 𝐈𝐧𝐬𝐢𝐠𝐡𝐭:Urban areas experience higher inflation likely due to higher living costs, transportation, and demand fluctuations.
 Rural inflation is lower possibly due to subsidies, local food production, and lower operational costs.
 
+𝐘𝐞𝐚𝐫-𝐰𝐢𝐬𝐞 𝐅𝐨𝐨𝐝 𝐈𝐧𝐟𝐥𝐚𝐭𝐢𝐨𝐧 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+
+![Image](https://github.com/user-attachments/assets/4daab767-beda-497e-baf8-15972b21614e)
+![Image](https://github.com/user-attachments/assets/7bb66f89-d2d9-45df-840b-7625be557da5)
+
+𝐈𝐧𝐬𝐢𝐠𝐡𝐭:The prices of essential food items like cereals,meat and dairy have increased over time.During COVID-19 a noticeable increase in food inflation during the pandemic suggests supply chain disruptions.
+
 𝐈𝐧𝐟𝐥𝐚𝐭𝐢𝐨𝐧 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧
 
 ![Image](https://github.com/user-attachments/assets/3a4ce748-c916-4004-bdde-9490d1027450)
@@ -45,7 +52,7 @@ Rural inflation is lower possibly due to subsidies, local food production, and l
 
 𝐂𝐎𝐕𝐈𝐃-𝟏𝟗 𝐈𝐦𝐩𝐚𝐜𝐭 𝐨𝐧 𝐈𝐧𝐟𝐥𝐚𝐭𝐢𝐨𝐧
 
-![Image](https://github.com/user-attachments/assets/6d63ed67-1415-46c4-a4d4-3fefc2d9ab12)
+![Image](https://github.com/user-attachments/assets/59f3acda-c6c3-4365-9e18-0044a52f0f3b)
 ![Image](https://github.com/user-attachments/assets/57f491a6-7e07-42c4-bab5-ebfc0d0613c3)
 
 𝐈𝐧𝐬𝐢𝐠𝐡𝐭:Supply chain disruptions and demand fluctuations led to inflation spikes during the pandemic.Inflation growth was higher in Q2 and Q3 (April-September), likely due to economic slowdowns and logistical issues.
